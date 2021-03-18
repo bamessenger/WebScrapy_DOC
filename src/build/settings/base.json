@@ -1,0 +1,6 @@
+{
+    "app_name": "WebScrapy_DOC",
+    "author": "Brandon Messenger",
+    "main_module": "src/main/python/WebScrapy_DOC/main.py",
+    "version": "1.0.0"
+}
